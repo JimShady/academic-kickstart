@@ -1,20 +1,20 @@
 +++
-title = "Explaining Urban beauty"
-date = 2017-10-29T12:50:32+01:00
+title = "Traffic Pollution & Health"
+date = 2011-1-1T12:50
 draft = false
 weight = 50
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+# Example: `tags = ["air-quality", "exposure", "pollution"]`
+tags = ["air-quality", "exposure", "pollution"]
 
 # Project summary to display on homepage.
-summary = "Buildings and neighbourhoods speak. They speak of egalitarianism or elitism, beauty or ugliness, acceptance or arrogance. The aim of this project is to celebrate egalitarianism, beauty, and acceptance by beautifying the entire world, one Google Street view at a time. All of this is done by designing state-of-the-art technologies that make it possible to smarten a street view and read inside the Deep Learning 'black box'."
+summary = "A major research project to better understand the health problems caused by air pollution and noise from traffic in London"
 
 # Optional image to display on homepage.
-image_preview = "explanation-2000.png"
+image_preview = "http://cdn.images.express.co.uk/img/dynamic/11/590x/air-pollution-traffic-noise-724737.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://facelift.datadissonance.org/"
+external_link = "https://www.kcl.ac.uk/lsm/research/divisions/aes/research/ERG/research-projects/traffic/index.aspx"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "air-pollution-traffic-noise-724737.jpg"
+caption = "Traffic Pollution & Health in London"
 
 +++
