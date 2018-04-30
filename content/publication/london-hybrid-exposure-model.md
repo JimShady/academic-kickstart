@@ -24,6 +24,7 @@ publication_short = "In *EST*"
 
 # Abstract and optional shortened version.
 abstract = "Here we describe the development of the London Hybrid Exposure Model (LHEM), which calculates exposure of the Greater London population to outdoor air pollution sources, in-buildings, in-vehicles, and outdoors, using survey data of when and where people spend their time. For comparison and to estimate exposure misclassification we compared Londoners LHEM exposure with exposure at the residential address, a commonly used exposure metric in epidemiological research. In 2011, the mean annual LHEM exposure to outdoor sources was estimated to be 37% lower for PM2.5 and 63% lower for NO2 than at the residential address. These decreased estimates reflect the effects of reduced exposure indoors, the amount of time spent indoors (~95%), and the mode and duration of travel in London. We find that an individual’s exposure to PM2.5 and NO2 outside their residential address is highly correlated (Pearson’s R of 0.9). In contrast, LHEM exposure estimates for PM2.5 and NO2 suggest that the degree of correlation is influenced by their exposure in different transport modes. Further development of the LHEM has the potential to increase the understanding of exposure error and bias in time-series and cohort studies and thus better distinguish the independent effects of NO2 and PM2.5."
+
 abstract_short = "A dynamic exposure model for estimating exposure to PM2.5 and NO2 on Londoners"
 
 # Featured image thumbnail (optional)
@@ -36,7 +37,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-#projects = ["traffic-pollution-and-health"]
+projects = ["traffic-pollution-and-health"]
 
 # Links (optional).
 url_pdf = "https://pubs.acs.org/doi/pdf/10.1021/acs.est.6b01817"
