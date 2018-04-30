@@ -15,7 +15,7 @@ weight = 5
     "PostgreSQL",
     "Data Science",
     "Air Quality",
-    "Nottingham Forest
+    "Nottingham Forest"
   ]
 
 # List your qualifications (such as academic degrees).
