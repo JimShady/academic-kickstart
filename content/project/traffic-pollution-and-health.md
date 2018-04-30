@@ -10,7 +10,7 @@ tags = ["air-quality", "exposure", "pollution"]
 summary = "A major research project to better understand the health problems caused by air pollution and noise from traffic in London"
 
 # Optional image to display on homepage.
-image_preview = "http://cdn.images.express.co.uk/img/dynamic/11/590x/air-pollution-traffic-noise-724737.jpg"
+image_preview = "air-pollution-traffic-noise-724737.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.kcl.ac.uk/lsm/research/divisions/aes/research/ERG/research-projects/traffic/index.aspx"
