@@ -1,6 +1,5 @@
 +++
 title = "Traffic Pollution & Health"
-date = 2011-1-1T12:50
 draft = false
 weight = 50
 # Tags: can be used for filtering projects.
