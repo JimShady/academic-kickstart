@@ -13,7 +13,7 @@ summary = "A major research project to better understand the health problems cau
 image_preview = "air-pollution-traffic-noise-724737.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.kcl.ac.uk/lsm/research/divisions/aes/research/ERG/research-projects/traffic/index.aspx"
+#external_link = "https://www.kcl.ac.uk/lsm/research/divisions/aes/research/ERG/research-projects/traffic/index.aspx"
 
 # Does the project detail page use math formatting?
 math = false
