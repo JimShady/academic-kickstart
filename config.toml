@@ -64,11 +64,10 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "james.david.smith@gmail.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  address = "Environmental Research Group, 4th Floor, Franklin-Wilkins Building, Stamford Street, King's College London, SE1 9NH"
+  phone = "0207 848 4005"
+  skype = "jamesdavidsmith"
+  telegram = "neoshady"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -96,30 +95,30 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 3
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "51.505655"
+  longitude = "-0.112293"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "May 31, 2018"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -226,12 +225,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:james.david.smith@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/therealjimshady"
 
   [[params.social]]
     icon = "google-scholar"
@@ -241,7 +240,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/jimshady"
 
 
 # Navigation Links
@@ -262,10 +261,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
