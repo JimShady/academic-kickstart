@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -11,10 +11,12 @@ weight = 5
 [interests]
   interests = [
     "Geographic Information Sciences",
-    "PostGIS",
-    "PostgreSQL",
+    "R",
+    "QGIS, ArcGIS",
+    "PostgreSQL + PostGIS + PgRouting",
     "Data Science",
     "Air Quality",
+    "Environmental Sciences",
     "Nottingham Forest"
   ]
 
@@ -38,4 +40,4 @@ weight = 5
 
 # Biography
 
-James David Smith is currently working as a researcher in environmental sciences at the Environmental Research Group of King's College London. His research interests include open-source tools, geographic information scienes and systems, air quality, spatial databases, maps, cartography, transport modelling, exposure modelling, personal monitoring and Nottingham Forest football club.
+James David Smith is a researcher in environmental sciences at the Environmental Research Group of King's College London. His research focuses on using open-source tools (R, PostgrSQL, QGIS) to solve geographic information science problems. I am currently focussed on modelling dynamic exposure to air pollution and general air-quality related problems. My wider interests are spatial databases, maps, cartography, transport modelling, personal monitoring and the most important one - Nottingham Forest football club.
