@@ -40,4 +40,4 @@ weight = 5
 
 # Biography
 
-James David Smith is a researcher in environmental sciences at the Environmental Research Group of King's College London. His research focuses on using open-source tools (R, PostgrSQL, QGIS) to solve geographic information science problems. I am currently focussed on modelling dynamic exposure to air pollution and general air-quality related problems. My wider interests are spatial databases, maps, cartography, transport modelling, personal monitoring and the most important one - Nottingham Forest football club.
+James David Smith is a researcher in environmental sciences at the Environmental Research Group of King's College London. His research focuses on using open-source tools (R, PostgrSQL, QGIS) to solve geographic information science problems. He is currently focussed on modelling dynamic exposure to air pollution and general air-quality related problems. His wider interests include spatial databases, maps, cartography, transport modelling, personal monitoring, dancing and Nottingham Forest football club.
